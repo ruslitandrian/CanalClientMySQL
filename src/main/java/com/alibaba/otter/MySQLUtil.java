@@ -10,9 +10,9 @@ import java.util.List;
 
 public class MySQLUtil {
 
-    private static String ACCOUNT = "user_fms";
-    private static String PWD = "phesatH4P@";
-    private static String ADDR = "172.16.85.77";
+    private static String ACCOUNT = "XXXX";
+    private static String PWD = "XXXX";
+    private static String ADDR = "XXX.XXX.XXXX.XXX";
 
     private static Connection con = null;   //連接object
     private static Statement stat = null;    //執行,傳入之sql為完整字串
